@@ -1,8 +1,16 @@
 # Mathematical-Computational-Operations
 
-![image](https://user-images.githubusercontent.com/67371383/189538807-70ea56ed-280e-4844-967a-7f86a13fe266.png)
-![image](https://user-images.githubusercontent.com/67371383/189538828-e20a5643-aacd-4981-997b-596dd35edceb.png)
-![image](https://user-images.githubusercontent.com/67371383/189538833-7b58c71b-8c64-40f0-a6cf-b87eaebf45ce.png)
-![image](https://user-images.githubusercontent.com/67371383/189538838-70be9f14-7e24-47ab-bb30-208f4ba9765e.png)
-![image](https://user-images.githubusercontent.com/67371383/189538842-ec52f72e-8763-4821-8bf4-93f5e8b9ae0e.png)
-![image](https://user-images.githubusercontent.com/67371383/189538848-9e1317f6-dcab-4131-9ddb-7dbbfab75f66.png)
+A sample Windows Forms application created in C# using Visual Studio which simulates a mathematical computer with
+
+### Screenshots
+![image](https://user-images.githubusercontent.com/67371383/195143391-a5a69f17-dd43-4580-9d0b-34d65ae99f22.png)
+
+![image](https://user-images.githubusercontent.com/67371383/195143543-e0400e12-b94d-45b1-8e33-c04817beb436.png)
+
+![image](https://user-images.githubusercontent.com/67371383/195143604-90bfb75a-3ff7-4708-ab50-279e978149fb.png)
+
+![image](https://user-images.githubusercontent.com/67371383/195143668-eacc003f-1985-41f6-b20a-e1e5d1eb0faf.png)
+
+![image](https://user-images.githubusercontent.com/67371383/195143714-46d744c4-5f7b-405b-8136-b973cdfe8cc1.png)
+
+![image](https://user-images.githubusercontent.com/67371383/195143750-e37cf27d-9581-40f4-b5b8-7e07d006b90a.png)
