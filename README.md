@@ -1,6 +1,6 @@
 # Mathematical-Computational-Operations
 
-A sample Windows Forms application created in C# using Visual Studio which simulates a mathematical computer with
+A sample Windows Forms application created in C# using Visual Studio which simulates a mathematical computer with the following operations: addition, substraction, multiplication, division and clear all text from the textBoxs.
 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/67371383/195143391-a5a69f17-dd43-4580-9d0b-34d65ae99f22.png)
